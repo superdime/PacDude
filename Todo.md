@@ -1,10 +1,10 @@
 Phase 1
     Implement
         Grid
-            Pair<T>
+            canMove()
+            nextMove()
         Entity
             Character
-                PacDude
                 Ghost
         Game
             Basic setup

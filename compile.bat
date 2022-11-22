@@ -1,4 +1,4 @@
 @echo off
 Rem Windows g++ "Makefile"
 
-echo Not implemented yet
+g++ -Wall main.cpp class\*.cpp -o main.exe
