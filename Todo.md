@@ -1,9 +1,4 @@
 Phase 1
-    Basic Setup
-        Class Diagram
-        Readme
-        Todo
-        Git
     Implement
         Grid
             Pair<T>
